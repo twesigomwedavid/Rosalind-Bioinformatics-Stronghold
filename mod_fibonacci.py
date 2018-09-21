@@ -5,7 +5,6 @@ instead of only 1 pair. The rabbits are still immortal.
 Function returns total number of rabbits after n months.
 
 '''
-
 def mod_fib(n, k):
     a, b = 1, 1
     for i in range(0, n):
