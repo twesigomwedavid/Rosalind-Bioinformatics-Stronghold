@@ -1,2 +1,2 @@
-# Rosalind-Bioinformatics-Stronghold
-Solutions to coding challenges 
+# coding challenges
+
