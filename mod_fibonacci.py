@@ -8,7 +8,7 @@ def mod_fib(n, k):
     a, b = 1, 1
     for i in range(0, n):
         print(a, end=' ')
-        a, b = b, a*3+b
+        a, b = b, a*k+b
     print()
 
 #mod_fib(n, k)
