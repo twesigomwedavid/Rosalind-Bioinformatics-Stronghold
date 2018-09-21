@@ -10,4 +10,5 @@ def mod_fib(n, k):
         print(a, end=' ')
         a, b = b, a*3+b
     print()
-mod_fib(5, 3)
+
+#mod_fib(n, k)
